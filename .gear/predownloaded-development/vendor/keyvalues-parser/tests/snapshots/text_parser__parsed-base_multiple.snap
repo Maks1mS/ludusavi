@@ -1,0 +1,17 @@
+---
+source: keyvalues-parser/tests/text_parser.rs
+expression: "PartialVdfDef::from(vdf.clone())"
+---
+PartialVdfDef {
+    key: "Key",
+    value: Obj(
+        ObjDef(
+            {},
+        ),
+    ),
+    bases: [
+        "one_base.res",
+        "../another_base.vdf",
+        "other\\path\\sep.pop",
+    ],
+}

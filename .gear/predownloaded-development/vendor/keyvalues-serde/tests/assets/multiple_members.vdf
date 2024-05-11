@@ -1,0 +1,11 @@
+"Container"
+{
+    "inner" "Value"
+    "str key" "String"
+    "obj key"
+    {
+        "key" "value"
+    }
+    "seq key" "first"
+    "seq key" "second"
+}

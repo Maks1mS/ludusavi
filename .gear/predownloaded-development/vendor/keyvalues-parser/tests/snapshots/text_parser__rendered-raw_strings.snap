@@ -1,0 +1,11 @@
+---
+source: keyvalues-parser/tests/text_parser.rs
+assertion_line: 109
+expression: rendered
+
+---
+"Some\text\here"
+{
+	"more\text\here"	"and\here"
+}
+

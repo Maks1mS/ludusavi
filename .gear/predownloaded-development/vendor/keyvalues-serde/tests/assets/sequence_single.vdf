@@ -1,0 +1,7 @@
+"Container"
+{
+	"inner"
+	{
+		"inner"	"Some String"
+	}
+}

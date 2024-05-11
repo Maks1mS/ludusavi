@@ -1,0 +1,2 @@
+tar: @name@
+tar: .gear/predownloaded-development name=@name@-development-@version@ base=

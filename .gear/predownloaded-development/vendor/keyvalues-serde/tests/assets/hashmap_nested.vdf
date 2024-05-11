@@ -1,0 +1,9 @@
+"Container"
+{
+	"inner"
+	{
+		"0"	"Foo"
+		"1"	"Bar"
+		"2"	"Baz"
+	}
+}

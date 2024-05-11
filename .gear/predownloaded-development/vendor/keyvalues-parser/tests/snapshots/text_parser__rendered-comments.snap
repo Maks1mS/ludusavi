@@ -1,0 +1,14 @@
+---
+source: keyvalues-parser/tests/text_parser.rs
+assertion_line: 94
+expression: rendered
+
+---
+"Outer Key"
+{
+	"Seq Key"	"Str Val"
+	"Seq Key"
+	{
+	}
+}
+

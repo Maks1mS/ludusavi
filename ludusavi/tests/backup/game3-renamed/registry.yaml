@@ -1,0 +1,16 @@
+---
+HKEY_CURRENT_USER:
+  "Software\\Ludusavi\\game3":
+    binary:
+      binary:
+        - 65
+    qword:
+      qword: 2
+    expandSz:
+      expandSz: baz
+    multiSz:
+      multiSz: bar
+    dword:
+      dword: 1
+    sz:
+      sz: foo
