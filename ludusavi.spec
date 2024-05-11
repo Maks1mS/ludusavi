@@ -46,8 +46,8 @@ install -Dm644 assets/%metainfo_name.metainfo.xml %buildroot%_datadir/metainfo/%
 install -Dm644 assets/icon.svg %buildroot%_iconsdir/hicolor/scalable/apps/%name.svg
 install -Dm644 assets/icon.png %buildroot%_iconsdir/hicolor/64x64/apps/%name.svg
 
-# %check
-# %rust_test
+%check
+%rust_test
 
 %files
 %doc *.md
